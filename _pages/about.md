@@ -31,6 +31,8 @@ My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profile
 
 During this period, I won the following Awards, Scholarships and Internships.
 
+[MICCAI 2022 LAScarQS Challenge Best Papepr Award.](/files/best_paper.pdf)
+
 [Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
 
 [Brain Korea (BK21) Scholarship](https://bk21four.nrf.re.kr/)
