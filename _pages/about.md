@@ -49,7 +49,13 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 
 ## Funding
-National Research Foundation of Korea funds my research work (NRF), U.S. Air Force Office of Scientific Research, and the Agricultural Science and Technology Development Cooperation of Korea.
+National Research Foundation of Korea (NRF)
+
+Cambridge Humanities Research Grants Scheme, University of Cambridge
+
+U.S. Air Force Office of Scientific Research
+
+the Agricultural Science and Technology Development Cooperation of Korea
 
 
 ### Site Credits
