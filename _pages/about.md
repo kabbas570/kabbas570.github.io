@@ -55,7 +55,7 @@ Cambridge Humanities Research Grants Scheme, University of Cambridge
 
 U.S. Air Force Office of Scientific Research
 
-the Agricultural Science and Technology Development Cooperation of Korea
+Agricultural Science and Technology Development Cooperation of Korea
 
 
 ### Site Credits
