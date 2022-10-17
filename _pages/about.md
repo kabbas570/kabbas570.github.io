@@ -33,8 +33,6 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 [MICCAI 2022 LAScarQS Challenge Best Papepr Award.](/files/best_paper.pdf)
 
-[Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
-
 [Brain Korea (BK21) Scholarship](https://bk21four.nrf.re.kr/)
 
 [Bahria University Advanced Merit Scholarship](https://www.bahria.edu.pk/buic/ees/scholarships/)
@@ -42,6 +40,8 @@ During this period, I won the following Awards, Scholarships and Internships.
 [CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
 
 [Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
+
+[Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
 
 [National Institute of Electronics – Islamabad, Pakistan, Internet](http://www.nie.gov.pk/)
 
