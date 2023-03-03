@@ -1,7 +1,7 @@
 ---
 title: "Sequential Segmentation of the Left Atrium and Atrial Scars Using a Multi-scale Weight Sharing Network and Boundary-based Processing"
 collection: publications
-permalink: [/publication/2020-02-SEEK](http://eecs.qmul.ac.uk/~gslabaugh/publications/Khan_MICCAIW2022.pdf)
+permalink: /publication/2020-02-SEEK
 excerpt: "Left atrial (LA) segmentation and quantification of atrial scars"
 date: 2022-09-18
 venue: 'MICCAI 2022'
