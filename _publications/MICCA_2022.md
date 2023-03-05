@@ -6,7 +6,7 @@ excerpt: "Left atrial (LA) segmentation and quantification of atrial scars"
 date: 2022-09-18
 venue: 'MICCAI 2022'
 imageurl: '/images/publications/MICCAI2022.png'
-paperurl: '/files/seek.pdf'
+paperurl: '/files/MICCAI2022.pdf'
 link: '/publication/2020-02-SEEK](http://eecs.qmul.ac.uk/~gslabaugh/publications/Khan_MICCAIW2022.pdf'
 
 ---
