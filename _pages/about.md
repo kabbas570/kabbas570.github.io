@@ -19,7 +19,7 @@ My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profile
 * I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Computer Vision to Healthcare and Precision Agriculture. I was supervised by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en) and [Professor Yongchae Jeong
 ](https://scholar.google.co.kr/citations?user=VhkRkVUAAAAJ&hl=en), as well as working as a Research Assistant at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do).
 
-* I obtained my Bachelor's Degree in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). I worked on Retinal layers segmentation in my final year and was supervised by [Dr. Taimur Hassan
+* I obtained my Bachelor's Degree in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from (2014-2018). I worked on Retinal layers segmentation in my final year and was supervised by [Dr. Taimur Hassan
 ](https://scholar.google.com.pk/citations?user=11mwy0YAAAAJ&hl=en).
 
 ## Research Interests
@@ -40,11 +40,6 @@ During this period, I won the following Awards, Scholarships and Internships.
 [CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
 
 [Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
-
-[Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
-
-[National Institute of Electronics – Islamabad, Pakistan, Internet](http://www.nie.gov.pk/)
-
 
 
 
