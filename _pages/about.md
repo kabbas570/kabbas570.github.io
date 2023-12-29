@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
+I am a second-year PhD Candidate working on AI-based Cardiac Image Computing at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
 
-My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr Martin Benning
+My Ph.D. is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Martin Benning
 ](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
 ## Previous Research and Experience 
