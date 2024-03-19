@@ -54,7 +54,8 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 <span style="color:red"> **NEWS** </span>
 * Invited for a talk [Cell Dynamics And Chromosomal Stability Workshop](http://www.draviamlab.uk/london_workshop_2024_March.html),  12/03/2024.
-* Our paper, 'Crop and Couple: Cardiac Image Segmentation Using Interlinked Specialist Networks,' has been accepted at ISBI-2024 and is available here, https://arxiv.org/abs/2402.09156
+* Our paper, 'Crop and Couple: Cardiac Image Segmentation Using Interlinked Specialist Networks,' has been accepted at ISBI-2024 and is available here: https://arxiv.org/abs/2402.09156
+* Best paper award from MICCAI, LAScarQS Segmentation Challenge, (/files/best_paper.pdf)
 
 
 
