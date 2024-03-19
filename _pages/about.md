@@ -52,7 +52,8 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 * Agricultural Science and Technology Development Cooperation of Korea
 
-<span style="color:red">some **This is Red Bold.** text</span>
+excerpt: "About me, specializing in <span style='color:red;'>AI-based Cardiac Image Computing</span>."
+
 
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
