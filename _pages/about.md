@@ -70,6 +70,7 @@ During this period, I won the following Awards, Scholarships and Internships.
 * [Best Paper Award from MICCAI 2022 LAScarQS Challenge](/files/best_paper.pdf) , 18/09/2022
 * Invited for a talk at [Queen Mary Computer Vision Group](https://vision.eecs.qmul.ac.uk/) 30/09/2023
 * DERI Lunch & Learn  talk "Dockers: containerized python for machine learning," 25/11/2022
+* The project with Keen-AI has been awarded the Eason Award for Digital Innovation at the Institute of ]Asset Management Excellence Awards 2023](https://www.nationalgrid.com/age-ai-national-grid-trial-futuristic-automated-corrosion-inspection-electricity-transmission)
 
 
 
