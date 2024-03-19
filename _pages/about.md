@@ -13,6 +13,11 @@ I am a third-year PhD Candidate working on AI-based Cardiac Image Computing at [
 My Ph.D. is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney), [Dr. Martin Benning
 ](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and [Dr. Muhammad Asad](https://masadcv.github.io/) being part of my supervisory committee and external collaborator, and I am a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
+## Research Intern 01/06/2022 – Present.
+(Keen AI, Software Company in Birmingham, United Kingdom)[https://keen-ai.com/]
+Developing AI-based approaches to segment steelwork and rust on images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of the rust. The images are collected through
+drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+
 ## Previous Research and Experience 
  * I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/)
 
