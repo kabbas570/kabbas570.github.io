@@ -52,7 +52,7 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 * Agricultural Science and Technology Development Cooperation of Korea
 
-<span style="color:red"> **NEWS** </strong></span>
+<span style="color:red"> **NEWS** </span>
 
 
 
