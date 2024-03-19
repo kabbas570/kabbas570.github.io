@@ -53,7 +53,7 @@ During this period, I won the following Awards, Scholarships and Internships.
 * Agricultural Science and Technology Development Cooperation of Korea
 
 <span style="color:red"> **NEWS** </span>
-* Delivered a talk at [Cell Dynamics And Chromosomal Stability Workshop](http://www.draviamlab.uk/london_workshop_2024_March.html) ,  12/03/2024.
+* Invited for a talk [Cell Dynamics And Chromosomal Stability Workshop](http://www.draviamlab.uk/london_workshop_2024_March.html),  12/03/2024.
 
 
 
