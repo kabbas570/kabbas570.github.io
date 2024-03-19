@@ -52,7 +52,10 @@ During this period, I won the following Awards, Scholarships and Internships.
 
 * Agricultural Science and Technology Development Cooperation of Korea
 
-## \textcolor{red}{NEWS*}
+  ## Markdown
+    ```{=latex}
+    \textcolor{red}{your text here}
+    ```
 
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
