@@ -65,6 +65,7 @@ During this period, I won the following Awards, Scholarships and Internships.
 * Agricultural Science and Technology Development Cooperation of Korea
 
 <span style="color:red"> **NEWS** </span>
+* I am Happy to share that I have  been awarded the [ISBI-2024 Travel Grant](https://biomedicalimaging.org/2024/student-travel-grant-winners/)
 * Invited for a talk [Cell Dynamics And Chromosomal Stability Workshop](http://www.draviamlab.uk/london_workshop_2024_March.html),  12/03/2024
 * Our paper, 'Crop and Couple: Cardiac Image Segmentation Using Interlinked Specialist Networks,' has been accepted at ISBI-2024 and is available here: https://arxiv.org/abs/2402.09156
 * Invited for a talk at [Queen Mary Computer Vision Group](https://vision.eecs.qmul.ac.uk/) 30/09/2023
