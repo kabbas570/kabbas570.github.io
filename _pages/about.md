@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year PhD Candidate working on AI-based Cardiac Image Computing at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
 
-My Ph.D. is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney), [Dr. Martin Benning
+My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney), [Professor Martin Benning
 ](https://profiles.ucl.ac.uk/95169-martin-benning), and [Dr. Muhammad Asad](https://masadcv.github.io/) being part of my supervisory committee and external collaborator, and I am a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
 ## Research Intern 01/06/2022 – Present.
