@@ -19,14 +19,18 @@ My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profile
 Developing AI-based approaches to segment steelwork and rust on images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of the rust. The images are collected through
 drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
 
-## Research Assistant – 01/12/2023 – Present
+## Previous Research and Experience 
+
+# Research Assistant – 01/12/2023 – 31/08/2024
 [NIHR Barts Biomedical Research Centre, London, United Kingdom](https://www.qmul.ac.uk/nihr-bartsbrc/)
 
-I am working on innovating in drug and device development for the cardiovascular digital twin concept to digitally model acute coronary syndromes, valvular heart disease, and hypertension. For each workstream, I am working on the ML algorithm
-development side. For valvular heart disease, I developed the precise segmentation of the Aorta; for the other two studies, we are developing time-series solutions for continuous monitoring of the patients based on sensor data and demographics
+I worked on innovating in drug and device development for the cardiovascular digital twin concept to digitally model acute coronary syndromes, valvular heart disease, and hypertension. For each workstream, I am working on the ML algorithm
+development side. For valvular heart disease, I developed the precise segmentation of the Aorta; for the other two studies, we are developing time-series solutions for continuous monitoring of the patients based on sensor data and demographics.
+# Research Assistant – 01/09/2021 – 31/03/2022
 
-## Previous Research and Experience 
- * I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/)
+ * I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/).
+
+# Graduate Research Assistant – 01/09/2019 – 31/08/2021
 
 * I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Computer Vision to Healthcare and Precision Agriculture. I was supervised by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en) and [Professor Yongchae Jeong
 ](https://scholar.google.co.kr/citations?user=VhkRkVUAAAAJ&hl=en), as well as working as a Research Assistant at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do).
