@@ -15,4 +15,4 @@ imageurl: '/images/publications/MICCAI2022.png'
 - Our  Boundary2Patches method enhances the precision of segmentation, especially for complex structures like atrial scars.
 - The proposed method might combine anatomical information and texture features of the left atrium endocardium, leading to more robust segmentation.
 
-## [Paper Available Here]([https://arxiv.org/pdf/2402.09156](https://link.springer.com/chapter/10.1007/978-3-031-31778-1_7))
+## [Paper Available Here](https://link.springer.com/chapter/10.1007/978-3-031-31778-1_7)
