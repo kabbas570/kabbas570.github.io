@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="publications">
+  <h1>Publications</h1>
+  <ul>
+    {% assign sorted_publications = site.publications | sort: "weight" %}
+    {% for publication in sorted_publications %}
+      <li>
+        <h2>{{ publication.title }}</h2>
+        <p>{{ publication.excerpt }}</p>
+        <a href="{{ publication.url }}">Read More</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
