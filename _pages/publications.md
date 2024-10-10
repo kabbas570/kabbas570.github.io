@@ -15,3 +15,9 @@ author_profile: true
   {% include archive-thumbnail.html %}
 {% endfor %}
 
+{% assign sorted_publications = site.publications | sort: "weight" %}
+{% for publication in sorted_publications %}
+  <h2>{{ publication.title }}</h2>
+  {{ publication.content }}
+{% endfor %}
+
