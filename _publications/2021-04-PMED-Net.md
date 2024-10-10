@@ -1,6 +1,5 @@
 ---
 title: "PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation"
-weight: 1
 collection: publications
 permalink: /publication/2021-04-PMED-Net
 excerpt: "Medical Image Segmentation."
