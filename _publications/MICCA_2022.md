@@ -10,9 +10,9 @@ imageurl: '/images/publications/MICCAI2022.png'
 <center><img src = '/images/publications/MICCAI2022.png'></center>
 ## Our Contributions 
 
-- We introduce a new method for segmenting both the left atrium and atrial scars sequentially, which could improve accuracy and efficiency compared to existing techniques.
+- We introduce a new method for segmenting both the left atrium and atrial scars sequentially to improve accuracy and efficiency compared to existing techniques.
 - The Multi-scale weight sharing network (MSWS-Net) allows for better feature extraction at different image resolutions, potentially improving the segmentation accuracy.
 - Our  Boundary2Patches method enhances the precision of segmentation, especially for complex structures like atrial scars.
-- The proposed method might combine anatomical information and texture features of the left atrium endocardium, leading to more robust segmentation.
+- The proposed method combines anatomical information and texture features of the left atrium endocardium, leading to more robust segmentation.
 
 ## [Paper Available Here](https://link.springer.com/chapter/10.1007/978-3-031-31778-1_7)
