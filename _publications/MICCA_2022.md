@@ -1,5 +1,6 @@
 ---
 title: "Sequential Segmentation of the Left Atrium and Atrial Scars Using a Multi-scale Weight Sharing Network and Boundary-based Processing"
+weight: 2
 collection: publications
 excerpt: "Left Atrial segmentation , Scar quantification , Atrial fibrillation (AF) , Multi-scale Weight Sharing NetworkBoundary2patches"
 date: 2022-09-18
