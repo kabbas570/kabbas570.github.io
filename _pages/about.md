@@ -16,7 +16,7 @@ The image below summarizes my PhD research journey (Deep learning-based Cardiac 
 
 
 ## Research Interests
-- Computer Vision, Deep Learning, and Pattern Recognition 
+- Computer Vision, Deep Learning, Pattern Recognition 
 - Application of AI in healthcare, Medical Image Segmentation, Precision Agriculture
 - Multi-modal AI, Compositional AI, Vision-Language Modeling 
 
