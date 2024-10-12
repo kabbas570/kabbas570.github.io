@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc Researcher in [Affective Intelligence and Robotics Laboratory (AFAR)](https://cambridge-afar.github.io/) at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/),  [University of Cambridge, UK](https://www.cam.ac.uk/). Currently I am working on [WorkingAge](https://www.workingage.eu/) project for affective analysis of workforce to promote healthy habits in their working environment and daily living activities and to improve their working and living conditions . 
+I am a third-year PhD student at Queen Mary University of London, working on Cardiac Image Segmentation using deep learning. My PhD is supervised by [Professor Greg Slabaugh](https://eecs.qmul.ac.uk/~gslabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
+
+My PhD is funded by the mini-CTD program of the Queen Mary University of London through industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical.  The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ) since April 2022.
 
 I have received my PhD in Computer Science with Visual Analaysis & Perception (VAP) and Human-Robot Interaction (HRI) Labs at [Aalborg University, Denmark](https://www.en.aau.dk/) with research focused on Facial Emotion Recognition for Citizens with Traumatic Brain Injury for Therapeutic Robot Interaction. I have received Master's Degree in Electrical & Electronics Engineering from [Coventry University, UK,](https://www.coventry.ac.uk/) in 2016. 
 
