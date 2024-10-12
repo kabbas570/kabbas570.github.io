@@ -18,7 +18,7 @@ The image below summarizes my PhD research journey (Deep learning-based Cardiac 
 ![PhDJ](https://github.com/user-attachments/assets/ab524a64-6be7-4d8c-ba6d-31929441f6fb)
 
 
-Previously, I was fortunate to work at the University of Cambridge with [Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) at [Affective Intelligence & Robotics Lab](https://cambridge-afar.github.io/). 
+Previously, I was fortunate to work at the University of Cambridge with [Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) at [Affective Intelligence & Robotics Lab](https://cambridge-afar.github.io/). I also had the privilege to work at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do), where I completed my Master's Degree under the supervision of [Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en).
 
 ## Research Interests
 - Computer Vision, Deep Learning, Pattern Recognition 
