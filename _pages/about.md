@@ -25,7 +25,7 @@ The image below summarizes my PhD research journey (Deep learning-based Cardiac 
 
 ## Honors and Awards
 - ISBI 2024 Student Travel Grant 
-- MICCAI 2024 LAQScar Challenge Best Student Paper Award 
+- MICCAI 2024 LAQScar Challenge Best Paper Award 
 - Queen Mary PhD Studentship Award
 - Brain Korea Master Scholarship Award 
 - CERN 2017 Summer Student Award
