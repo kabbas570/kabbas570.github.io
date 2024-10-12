@@ -36,7 +36,12 @@ Queen Mary’s Digital Environment Research Institute &nbsp;&nbsp;&nbsp;   (Apri
 I am working on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation. I am incorporating different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
 
 **2-Research Intern** <br> 
-KeenAI     (June-2022-Present)
+KeenAI    &nbsp;&nbsp;&nbsp; (June-2022-Present)
+
+Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of the corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+
+**2-Research Assistant** <br> 
+NIHR Barts Biomedical Research Centre, London    &nbsp;&nbsp;&nbsp; (December-2023-Sep-2024)
 
 Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of the corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
 
