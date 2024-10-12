@@ -35,6 +35,11 @@ April-2022-Present
 
 I am working on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation. I am incorporating different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
 
+**2-Research Intern** <br>
+June-2022-Present
+
+Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of the corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+
 **Graduate Student Researcher** <br>
 *Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea* <br>
 I am working on different projects related to medical image processing and smart farming using state-of-the-art computer vision algorithms to solve problems like classification, object detection, depth estimation, and segmentation for precision agriculture and healthcare. The goal of my research is to design efficient deep-learning modules for real-time applications by reducing the
