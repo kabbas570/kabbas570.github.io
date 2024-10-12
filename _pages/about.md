@@ -10,59 +10,25 @@ redirect_from:
 
 I am a third-year PhD student at Queen Mary University of London, working on Cardiac Image Segmentation using deep learning. My PhD is supervised by [Professor Greg Slabaugh](https://eecs.qmul.ac.uk/~gslabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
 
-My PhD is funded by the mini-CTD program of the Queen Mary University of London through industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical.  The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ) since April 2022.
+My PhD is funded by the mini-CTD program of the Queen Mary University of London through industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical. 
 
-I have received my PhD in Computer Science with Visual Analaysis & Perception (VAP) and Human-Robot Interaction (HRI) Labs at [Aalborg University, Denmark](https://www.en.aau.dk/) with research focused on Facial Emotion Recognition for Citizens with Traumatic Brain Injury for Therapeutic Robot Interaction. I have received Master's Degree in Electrical & Electronics Engineering from [Coventry University, UK,](https://www.coventry.ac.uk/) in 2016. 
-
+The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ) since April 2022.
 
 
 ## Research Interests
-* My primary research interest is in affective computing and human behavior analysis in working environmetal conditions.
-* I also investigate topics related to human-Robot interaction, Neuro inpired AI, Deep learning and Computer Vision. 
+- Computer Vision, Deep Learning, and Pattern Recognition 
+- Application of AI in healthcare, Medical Image Segmentation, Precision Agriculture
+- Multi-modal AI, Compositional AI, Vision-Language Modeling 
 
 
 ## Honors and Awards
-
-Sep 2020 [Applied in collaboration] International Networking Innovation Fund, DK ( 30K Euro)
-
-Nov. 2018 Research Stay Abroad Grant (25,000 DKK)
-
-Feb. 2018 Otto Monsted Grant for Conference (10,000 DKK)
-
-2018 -2020 Board Member PhD Network Association Aalborg University PAU
-
-Jan. 2016 Global Leadership Certificate (GLC), for conducting seminars, events and talks under Global Leadership Program (GLP) at the Coventry University
-
-August 2015 Travel grant for industries (Air bus, Volkswagon) visit in Germany
-
-June 2015 Research assistance ship for 2 months in Coventry University (£ 2,000)
-
-April 2015 2nd Prize in NEC Birmingham Engineering and Design Competition
-
-March 2015 Cultural Mundi Representative
-
-Jan. 2015 Senior Course Representative Electrical & Electronics Engineering
-
-Jan. 2015 Tuition fee wavier (£ 500)
-
-2007 - 2011 2nd merit position overall in university with CGPA 3.875 / 4.00 at (FUUAST Islamabad)
-
-2009-2011 Head of CR of Electrical Engineering Department (FUUAST Islamabad )
-
-2010-2011 Ambassador of University (FUUAST Islamabad )
-
-2010-2011 Won the “Talent award” twice by “Study Aid Foundation for Excellence (SAFE)
-
-
-
-
-## Funding
-My research work is supported by the the European Union's Horizon 2020 Research and Innovation programme under grant agreement No. 826232.
-
-
-
-## Updates
-
-
+- ISBI 2024 Student Travel Grant 
+- MICCAI 2024 LAQScar Challenge Best Student Paper Award 
+- Queen Mary PhD Studentship Award
+- Brain Korea Master Scholarship Award 
+- CERN 2017 Summer Student Award
+- Bachelor Degree Final Year Best Project Award 
+- Magna Cum Laude Highest  Academic Excellence Award (Bachelor Degree)
+- 
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
