@@ -31,7 +31,7 @@ Retinal Layers for Analyzing Retinal Anomalies
 ## Research Experiences 
 -----------------------
 **1-PhD Graduate Student Researcher** <br> 
-Queen Mary’s Digital Environment Research Institute    (April-2022-Present)
+Queen Mary’s Digital Environment Research Institute &nbsp;&nbsp;&nbsp;   (April-2022-Present)
 
 I am working on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation. I am incorporating different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
 
