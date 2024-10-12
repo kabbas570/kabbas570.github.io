@@ -27,20 +27,7 @@ CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
 -----------------------
 **Graduate Student Researcher**, <br>
 *Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea* <br>
-I am working on different projects related to medical image processing and smart farming using state-of-the-art computer vision
-algorithms to solve the problems like classification, object detection, depth estimation, and segmentation for precision agriculture
-and healthcare. The goal of my research is to design efficient deep learning modules for real-time applications by reducing the
+I am working on different projects related to medical image processing and smart farming using state-of-the-art computer vision algorithms to solve problems like classification, object detection, depth estimation, and segmentation for precision agriculture and healthcare. The goal of my research is to design efficient deep-learning modules for real-time applications by reducing the
 parameterized complexity and inference time of the algorithms.
   
-## Publications
------------------------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    
-
-## Skills
------------------------
-* Programming: MATLAB, Python (NumPy, SciPy, Matplotlib, Pandas, OpenCV, Tensorflow, Keras, PyTorch), C++, C, FPGA.
-* Electronics: Arduino, Raspberry Pi, Analog & Digital Electronics.
 
