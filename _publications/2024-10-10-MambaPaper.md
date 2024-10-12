@@ -1,5 +1,6 @@
 ---
 title: "CAMS: Convolution and Attention-Free Mamba-based Cardiac Image Segmentation"
+date: 2024-10-10
 collection: publications
 excerpt: "Convolution and self-attention-free Mamba-based semantic Segmentation Network named CAMS-Net, Linearly Interconnected Factorized
 Mamba (LIFM) block, Mamba-based Channel Aggregator and Spatial Aggregator"
