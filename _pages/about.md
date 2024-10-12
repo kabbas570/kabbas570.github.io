@@ -13,6 +13,8 @@ I am a third-year PhD student at Queen Mary University of London, working on Car
 My PhD is funded by the mini-CTD program of the Queen Mary University of London through industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical. I am also part of [Queen Mary's Digital Environment Research Institute](https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/abbas-khan-rayabat-khan.html).
 
 The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ) since April 2022.
+![PhDJ](https://github.com/user-attachments/assets/ab524a64-6be7-4d8c-ba6d-31929441f6fb)
+
 
 
 ## Research Interests
