@@ -13,7 +13,7 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 
 ## Education
 -----------------------
-**PhD in Electronic Engineering and Computer Science**  "I’m aiming to wrap up my PhD by March 2025... unless my thesis decides to throw a plot twist!" 😄<br>
+**PhD in Electronic Engineering and Computer Science**  "Aiming to wrap up by March 2025... unless my thesis decides to throw a plot twist!" 😄<br>
 Queen Mary University of London, United Kingdom  
 **Thesis Topic** Deep learning-based Cardiac Image Segmentation
 
