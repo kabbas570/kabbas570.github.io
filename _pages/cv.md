@@ -13,21 +13,15 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 
 ## Education
 -----------------------
-**Master of Science in Electronics and Information Engineering**,<br>
-Jeonbuk National University, Jeonju, Republic of Korea<br>
-** Thesis Topic**
-
-**Bachelor of Science in Electrical and Electronics Engineering**,<br>
-Bahria University Islamabad, Pakistan<br>
-** Thesis Topic**
-
 **Master of Science in Electronics and Information Engineering**,  
 Jeonbuk National University, Jeonju, Republic of Korea  
-**Thesis Topic**
+**Thesis Topic** End-to-End Supervised Stereo Imaging-
+Based Method for Depth Estimation
 
 **Bachelor of Science in Electrical and Electronics Engineering**,  
 Bahria University Islamabad, Pakistan  
-**Thesis Topic**
+**Thesis Topic** Deep Learning Based Automated Extraction of
+Retinal Layers for Analyzing Retinal Anomalies
 
 
 ## Current Position
