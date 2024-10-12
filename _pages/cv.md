@@ -16,9 +16,19 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 **Master of Science in Electronics and Information Engineering**,<br>
 Jeonbuk National University, Jeonju, Republic of Korea<br>
 ** Thesis Topic**
+
 **Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
 ** Thesis Topic**
+
+**Master of Science in Electronics and Information Engineering**,  
+Jeonbuk National University, Jeonju, Republic of Korea  
+**Thesis Topic**
+
+**Bachelor of Science in Electrical and Electronics Engineering**,  
+Bahria University Islamabad, Pakistan  
+**Thesis Topic**
+
 
 ## Current Position
 -----------------------
