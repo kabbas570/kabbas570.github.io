@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaudhary Muhammad Aqdus Ilyas"
+title                    : "Abbas Khan"
 title_separator          : "-"
-name                     : &name "Chaudhary Muhammad Aqdus Ilyas"
+name                     : &name "Abbas Khan"
 description              : &description "M.S. in Electrical & Computer Engineering, UCLA, Expected 2021; B.S in Physics, UCLA, 2019; Ethnically Indian, born & raised in Kuwait"
 url                      : https://kabbas570.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Muhammad Aqdus"
+  name             : "Abbas Khan"
   avatar           : "Aqdus.jpg"
-  bio              : "Research Associate"
-  location         : "Cambridge, United Kingdom"
+  bio              : "PhD Candidate"
+  location         : "London, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5yQCd7cAAAAJ&hl=en"
-  email            : "kengr.aqdus@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yrqICr8AAAAJ&hl=en"
+  email            : "kabbas570@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  orcid            : "https://orcid.org/0000-0002-0766-3531"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2120-4729"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
