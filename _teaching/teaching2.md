@@ -1,11 +1,11 @@
 ---
 title: "Course Instructor Higher Secondary School"
 collection: teaching
-type: " 
-Introduciton to Computer Science <br>
+type: ' 
+Introduction to Computer Science <br>
 Mathematics <br>
-Introduciton to Statistics <br>
-Physics <br>"
+Introduction to Statistics <br>
+Physics <br>'
 
-permalink: /teaching1
+permalink: /teaching2
 ---
