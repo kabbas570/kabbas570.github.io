@@ -1,0 +1,16 @@
+---
+title: "Corrosion Identification for Overhead Lines  "
+collection: projects
+excerpt: "Multistage corrosion detection pipeline "
+imageurl: '/images/projects/detect_1.png'
+date: 2022-12-30
+
+---
+<center><img src="/images/projects/detect_1.png"></center>
+
+## Project Aims 
+-  Develop a deep neural network solution for automatic corrosion detection on transmission towers
+- The project involved a two-step approach where firstly, we separate the steel works against the background, followed by segmenting the Rust on the Steel
+- The algorithm can work on large-scale iamges 
+- A short demo is [Available Here](https://keen-ai.com/case-study/corrosion-detection-on-overhead-line-towers/)
+
