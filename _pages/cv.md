@@ -13,16 +13,17 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1q8P8FSIxToMyV7Z
 
 ## Education
 -----------------------
-**PhD in Electronic Engineering and Computer Science**  "Aiming to wrap up by March 2025... unless my thesis decides to throw a plot twist!" 😄<br>
+**PhD in Electronic Engineering and Computer Science**  <br>
+"Aiming to wrap up by March 2025... unless my thesis decides to throw a plot twist!" 😄<br>
 Queen Mary University of London, United Kingdom  
 **Thesis Topic** Deep learning-based Cardiac Image Segmentation
 
-**Master of Science in Electronics and Information Engineering**  
+**Master of Science in Electronics and Information Engineering** &nbsp;&nbsp;&nbsp;   (Sep-2019-Oct-2021)
 Jeonbuk National University, Jeonju, Republic of Korea  
 **Thesis Topic** End-to-End Supervised Stereo Imaging-
 Based Method for Depth Estimation
 
-**Bachelor of Science in Electrical and Electronics Engineering**  
+**Bachelor of Science in Electrical and Electronics Engineering**  &nbsp;&nbsp;&nbsp;   (Sep-2014-June-2018)
 Bahria University Islamabad, Pakistan  
 **Thesis Topic** Deep Learning Based Automated Extraction of
 Retinal Layers for Analyzing Retinal Anomalies
