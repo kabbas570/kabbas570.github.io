@@ -1,7 +1,7 @@
 ---
-title: "Corrosion Identification for Overhead Lines  "
+title: " Identify the core suspension tower components for a transmission operator"
 collection: projects
-excerpt: "Multistage corrosion detection pipeline "
+excerpt: "Object Detection, Asset Management"
 imageurl: '/images/projects/detect_1.png'
 date: 2022-12-30
 
@@ -9,8 +9,8 @@ date: 2022-12-30
 <center><img src="/images/projects/detect_1.png"></center>
 
 ## Project Aims 
--  Develop a deep neural network solution for automatic corrosion detection on transmission towers
-- The project involved a two-step approach where firstly, we separate the steel works against the background, followed by segmenting the Rust on the Steel
-- The algorithm can work on large-scale iamges 
-- A short demo is [Available Here](https://keen-ai.com/case-study/corrosion-detection-on-overhead-line-towers/)
+-  Develop an AI-based algorithm to identify different components of a transmission tower
+-  Regular inspections using drones or cameras with automated detection systems can identify potential issues before they lead to failures.
+-  Cost saving for the efficient and safe operation of high-voltage transmission systems.
+- A short demo is [Available Here](https://keen-ai.com/blog/successfully-utilising-machine-learning-and-ai-at-a-transmission-operator/) and [Also Here](https://keen-ai.com/case-study/detecting-high-risk-distribution-poles-with-ai/)
 
