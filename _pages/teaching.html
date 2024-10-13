@@ -5,22 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% raw %}{% include base_path %}
-
 <h2>Undergraduate Level Teaching Assistant</h2>
-<p><strong>Institution:</strong> University Name, Department</p>
-<p><strong>Position:</strong> Undergraduate course</p>
+<p><strong>Institution:</strong> {{ page.venue }}</p>
+<p><strong>Position:</strong> {{ page.type }}</p>
 
-{% if site.data.teaching %}
-  <h3>Courses:</h3>
-  <ul>
-  {% for course in site.data.teaching.courses %}
-    <li>{{ course }}</li>
-  {% endfor %}
-  </ul>
-{% endif %}
+<h3>Courses:</h3>
+<ul>
+{% assign courses = page.courselist | split: ", " %}
+{% for course in courses %}
+  <li>{{ course }}</li>
+{% endfor %}
+</ul>
+
+<p><strong>Date:</strong> {{ page.date | date: "%B %Y" }}</p>
 
 <h3>Additional Teaching Experience:</h3>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}{% endraw %}
+  {% if post.url != page.url %}
+    <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+    <p>{{ post.type }}, {{ post.venue }}, {{ post.date | date: "%B %Y" }}</p>
+  {% endif %}
+{% endfor %}
