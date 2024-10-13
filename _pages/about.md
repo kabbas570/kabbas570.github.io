@@ -28,7 +28,7 @@ Previously, I was fortunate to work at the University of Cambridge with [Liliana
 
 ## Honors and Awards
 - ISBI 2024 Student Travel Grant 
-- MICCAI 2024 LAQScar Challenge Best Paper Award 
+- MICCAI LAScarQS 2022 Challenge Best Paper Award 
 - Queen Mary PhD Studentship Award
 - Brain Korea Master Scholarship Award 
 - CERN 2017 Summer Student Award
