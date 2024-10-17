@@ -22,5 +22,6 @@ The proposed approach employs two encoders and one decoder. The encoders extract
 <center><img src="/images/projects/R1.png"></center>
 <center><img src="/images/projects/R2.png"></center>
 
+ [A copy of my Master Thesis is Available Here](https://dl.jbnu.ac.kr/search/detail/CATTOT000000928374?location=AA000000#holdingTabAA000000)
 
 
