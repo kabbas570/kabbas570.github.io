@@ -8,7 +8,7 @@ date: 2021-08-30
 
 ---
 
-<center><img src="/images/projects/depth1.png"></center>
+<center><img src="/images/projects/DEPTH1.png"></center>
 
 ## Project Aims 
 
