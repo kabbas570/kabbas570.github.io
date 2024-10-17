@@ -17,5 +17,7 @@ date: 2021-07-01
 - The regression part estimates the position of the dog’s nose
 - The classification part predicts the dog class
 
+## Results ##
 <center><img src="/images/projects/dog_proj1.png"></center>
+## Grad-CAM Visualization of Maximum Activations of Convolution Layers ##
 <center><img src="/images/projects/dog_proj2.png"></center>
