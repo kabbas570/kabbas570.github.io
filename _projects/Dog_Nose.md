@@ -6,9 +6,7 @@ imageurl: '/images/projects/dog_proj.png'
 date: 2021-08-01
 
 ---
-
 <center><img src="/images/projects/dog_proj.png"></center>
-
 
 ## Project Aims 
 
