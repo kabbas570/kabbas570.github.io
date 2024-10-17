@@ -6,7 +6,6 @@ imageurl: '/images/projects/dog_proj.png'
 date: 2021-08-01
 
 ---
-<center><img src="/images/projects/dog_proj.png"></center>
 
 ## Project Aims 
 
@@ -16,6 +15,3 @@ date: 2021-08-01
 The regression part estimates the position of the dog’s nose
 The classification part predicts the dog class
 
-## Results
-<center><img src="/images/projects/dog_proj1.png"></center>
-<center><img src="/images/projects/dog_proj2.png"></center>
