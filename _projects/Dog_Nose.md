@@ -7,6 +7,8 @@ date: 2021-07-01
 
 ---
 
+<center><img src="/images/projects/dog_proj.png"></center>
+
 ## Project Aims 
 
 - The proposed model identifies and localizes the specific pattern in dog nose
@@ -15,3 +17,5 @@ date: 2021-07-01
 - The regression part estimates the position of the dog’s nose
 - The classification part predicts the dog class
 
+<center><img src="/images/projects/dog_proj1.png"></center>
+<center><img src="/images/projects/dog_proj2.png"></center>
