@@ -11,7 +11,7 @@ imageurl: '/images/projects/DEPTH1.png'
 
 <center><img src="/images/projects/DEPTH1.png"></center>
 
-## proposed Architecture
+## Proposed Architecture
 
 The proposed approach employs two encoders and one decoder. The encoders extract the features of stereo images, and the decoder reconstructs the depth map.
 - An attention module named Spatial and Channel Attention Module (SCAM) is incorporated in the bottleneck to combine and emphasize the most meaningful features of encoders.
