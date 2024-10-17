@@ -3,7 +3,7 @@ title: "Dog-Noseprint-Recognition-and-Localization"
 collection: projects
 excerpt: "Dogs' noses have unique patterns like human fingerprints. It can be used to identify the dog species accurately. This project explored the idea of Dog Noseprint Recognition and Localization, using a hybrid CNN network for both classification and localization."
 imageurl: '/images/projects/dog_proj.png'
-date: 2021-07-01
+date: 2021-30-08
 
 ---
 
