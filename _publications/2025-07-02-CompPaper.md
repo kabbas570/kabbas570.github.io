@@ -1,6 +1,6 @@
 ---
 title: "Compositional Segmentation of Cardiac Images Leveraging Metadata"
-date: 2025-27-02
+date: 2025-02-27
 collection: publications
 excerpt: "Multitask compositional segmentation, Cross-Modal Feature Integration (CMFI) module to leverage the metadata related to cardiac imaging."
 venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2025)
