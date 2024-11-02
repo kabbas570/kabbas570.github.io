@@ -4,7 +4,7 @@ date: 2024-10-10
 collection: publications
 excerpt: "Convolution and self-attention-free Mamba-based semantic Segmentation Network named CAMS-Net, Linearly Interconnected Factorized
 Mamba (LIFM) block, Mamba-based Channel Aggregator and Spatial Aggregator"
-venue: Preprint on arXiv
+venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2025)
 imageurl: '/images/publications/mamba.png'
 
 ---
