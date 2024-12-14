@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A copy of my CV [Available Here](https://drive.google.com/file/d/1StAHC3yJYLs5NaEhSljqGhMgpNx3WaIL/view?usp=sharing)
+A copy of my CV [Available Here](https://drive.google.com/open?id=1IeFUdvlLt_4ru2lz8XUuYC-gVZ-oNmSe&usp=drive_copy)
 
 ## Education
 -----------------------
