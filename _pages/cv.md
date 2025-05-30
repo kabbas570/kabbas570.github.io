@@ -31,17 +31,17 @@ Bahria University Islamabad, Pakistan
 **1- PhD Graduate Student Researcher** <br> 
 Queen Mary’s Digital Environment Research Institute &nbsp;&nbsp;&nbsp;   (April-2022  May-2025)
 
-I am working on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation. I am incorporating different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
+I worked on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation, where I incorporated different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
 
 **2- Research Intern** <br> 
 KeenAI    &nbsp;&nbsp;&nbsp; (June-2022  December-2024)
 
-Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aimed to precisely predict the steelwork on various backgrounds and then estimate the proportion of corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project had been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
 
 **3- Research Assistant** <br> 
 NIHR Barts Biomedical Research Centre, London    &nbsp;&nbsp;&nbsp; (December-2023  Sep-2024)
 
-Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aims to precisely predict the steelwork on various backgrounds and then estimate the proportion of corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project has been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+I worked on innovating cardiac digital twins to model acute coronary syndromes, transcatheter aortic valve replacement, and hypertension. My research themes included RNN-based blood pressure prediction, large-scale data cleaning, and developing an aorta segmentation algorithm.
 
 **4- Research Assistant** <br> 
 University of Cambridge, McDonald Institute for Archaeological Research   &nbsp;&nbsp;&nbsp; (Oct-2021  April-2022)
