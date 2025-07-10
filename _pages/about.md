@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Scientist at [Johnson & Johnson](https://www.jnj.com/), working at the intersection of multi-modal AI and drug discovery.
 
-I recently defended my PhD at Queen Mary University of London, where I worked on Cardiac Image Segmentation using deep learning. My PhD was supervised by [Professor Greg Slabaugh](https://eecs.qmul.ac.uk/~gslabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
+I obtained my PhD from Queen Mary University of London, where I worked on Cardiac Image Segmentation using deep learning. My PhD was supervised by [Professor Greg Slabaugh](https://eecs.qmul.ac.uk/~gslabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
 
 My PhD was funded by the mini-CTD program at Queen Mary University of London, with industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical. I was also part of [Queen Mary's Digital Environment Research Institute](https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/abbas-khan-rayabat-khan.html).
 
