@@ -20,11 +20,11 @@ Queen Mary University of London, United Kingdom
 **Master of Science in Electronics and Information Engineering** &nbsp;&nbsp;&nbsp;   (Sep-2019  Oct-2021) <br>
 Jeonbuk National University, Jeonju, Republic of Korea  
 **Thesis Topic** End-to-End Supervised Stereo Imaging- Based Method for Depth Estimation
-
-# **Bachelor of Science in Electrical and Electronics Engineering**  &nbsp;&nbsp;&nbsp;   (Sep-2014  June-2018) <br>
-# Bahria University Islamabad, Pakistan  
-# **Thesis Topic** Deep Learning Based Automated Extraction of Retinal Layers for Analyzing Retinal Anomalies
-
+<!---
+**Bachelor of Science in Electrical and Electronics Engineering**  &nbsp;&nbsp;&nbsp;   (Sep-2014  June-2018) <br>
+ Bahria University Islamabad, Pakistan  
+**Thesis Topic** Deep Learning Based Automated Extraction of Retinal Layers for Analyzing Retinal Anomalies
+-->
 
 ## Research Experiences 
 -----------------------
