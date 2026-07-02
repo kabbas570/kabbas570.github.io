@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scientist at [Johnson & Johnson](https://www.jnj.com/), working at the intersection of multi-modal AI and drug discovery.
+I am an AI/ML Scientist at [Johnson & Johnson](https://www.jnj.com/), working at the intersection of multimodal AI and drug discovery.
 
 I obtained my PhD from Queen Mary University of London, where I worked on Cardiac Image Segmentation using deep learning. My PhD was supervised by [Professor Greg Slabaugh](https://webspace.eecs.qmul.ac.uk/g.slabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
 
 My PhD was funded by the mini-CTD program at Queen Mary University of London, with industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical. I was also part of [Queen Mary's Digital Environment Research Institute](https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/abbas-khan-rayabat-khan---alumni.html).
 
-I was also a [Research Intern at KeenAI](https://keen-ai.com/about/). My work focused on developing AI-based approaches to segment steelwork and rust accurately in transmission tower images. The work aimed to predict steelwork and estimate rust proportions across various backgrounds.
+I was also a [Research Intern at KeenAI](https://keen-ai.com/about/). My work focused on developing AI-based approaches for accurately segmenting steelwork and rust in transmission tower images. The work aimed to predict steelwork and estimate rust proportions across various backgrounds.
 
 The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ), April 2022 - May 2025.
 ![PhD-Sum](https://github.com/user-attachments/assets/bc3a2968-84e4-4a94-8115-b2ef23a3c7b3)
@@ -36,7 +36,7 @@ Previously, I was fortunate to work at the University of Cambridge with [Liliana
 - Brain Korea Master Scholarship Award 
 - CERN 2017 Summer Student Award
 - Bachelor's Degree Final Year Best Project Award 
-- Magna Cum Laude Highest  Academic Excellence Award (Bachelor Degree)
+- Magna Cum Laude Highest  Academic Excellence Award (Bachelor's Degree)
   
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. 
