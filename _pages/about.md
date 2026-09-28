@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI/ML Scientist at [Johnson & Johnson](https://www.jnj.com/), working at the intersection of multimodal AI and drug discovery.
+I am an AI/ML Postdoctoral Scientist at [Johnson & Johnson](https://www.jnj.com/), working at the intersection of multimodal AI and drug discovery.
 
 I obtained my PhD from Queen Mary University of London, where I worked on Cardiac Image Segmentation using deep learning. My PhD was supervised by [Professor Greg Slabaugh](https://webspace.eecs.qmul.ac.uk/g.slabaugh/), [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning), [Dr. Caroline Roney](https://www.sems.qmul.ac.uk/staff/c.roney/), and [Dr. Muhammad Asad](https://masadcv.github.io/).
 
 My PhD was funded by the mini-CTD program at Queen Mary University of London, with industrial partners, including NVIDIA Corporation, Circle Cardiovascular Imaging, and Conavi Medical. I was also part of [Queen Mary's Digital Environment Research Institute](https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/abbas-khan-rayabat-khan---alumni.html).
 
-I was also a [Research Intern at KeenAI](https://keen-ai.com/about/). My work focused on developing AI-based approaches for accurately segmenting steelwork and rust in transmission tower images. The work aimed to predict steelwork and estimate rust proportions across various backgrounds.
+I was also part-time [Machine Learning Engineer at KeenAI](https://keen-ai.com/about/). My work focused on developing AI-based approaches for accurately segmenting steelwork and rust in transmission tower images. The work aimed to predict steelwork and estimate rust proportions across various backgrounds.
 
 The image below summarizes my PhD research journey (Deep learning-based Cardiac Image Segmentation ), April 2022 - May 2025.
 ![PhD-Sum](https://github.com/user-attachments/assets/bc3a2968-84e4-4a94-8115-b2ef23a3c7b3)
 
 
 
-Previously, I was fortunate to work at the University of Cambridge with [Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) at [Affective Intelligence & Robotics Lab](https://cambridge-afar.github.io/). I also had the privilege to work at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do), where I completed my Master's Degree under the supervision of [Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en).
+Previously, I was fortunate to work at the University of Cambridge with [Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) at [Affective Intelligence & Robotics Lab](https://cambridge-afar.github.io/). I also had the privilege to work at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do), where I worked as Research Engineer and also completed my Master's Degree under the supervision of [Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en).
 
 ## Research Interests
 - Computer Vision, Deep Learning, Pattern Recognition 
@@ -30,6 +30,8 @@ Previously, I was fortunate to work at the University of Cambridge with [Liliana
 
 
 ## Honors and Awards
+- UK Global Talent endorsement from Tech Nation
+- Queen Mary Mini-CTD Award for PhD
 - ISBI 2024 Student Travel Grant 
 - MICCAI LAScarQS 2022 Challenge Best Paper Award 
 - Queen Mary PhD Studentship Award
