@@ -23,7 +23,7 @@ Jeonbuk National University, Jeonju, Republic of Korea
 <!---
 **Bachelor of Science in Electrical and Electronics Engineering**  &nbsp;&nbsp;&nbsp;   (Sep-2014  June-2018) <br>
  Bahria University Islamabad, Pakistan  
-**Thesis Topic** Deep Learning Based Automated Extraction of Retinal Layers for Analyzing Retinal Anomalies
+**Thesis Topic** Deep Learning-Based Automated Extraction of Retinal Layers for Analyzing Retinal Anomalies
 -->
 
 ## Research Experiences 
@@ -31,12 +31,12 @@ Jeonbuk National University, Jeonju, Republic of Korea
 **1- PhD Graduate Student Researcher** <br> 
 Queen Mary’s Digital Environment Research Institute &nbsp;&nbsp;&nbsp;   (April-2022  May-2025)
 
-I worked on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation, where I incorporated different innovations into Cardiovascular Imaging using multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, designing loss functions for segmentation, and Multi-Modal AI.
+I worked on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation, incorporating innovations in cardiovascular imaging with multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, custom segmentation loss functions, and multimodal AI.
 
-**2- Research Intern** <br> 
+**2- Machine Learning Engineer** <br> 
 KeenAI    &nbsp;&nbsp;&nbsp; (June-2022  Dec-2024)
 
-Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aimed to precisely predict the steelwork on various backgrounds and then estimate the proportion of corrosion. The images are collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project had been shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
+Developing AI-based approaches to segment corrosion on steelworks using images of transmission towers. The project aimed to precisely predict the steelwork on various backgrounds and then estimate the proportion of corrosion. The images were collected through drones, helicopters, and simulations (synthetic data) to train the algorithms. This project was shortlisted for the IAM Asset Management Excellence Awards 2023 - UK and IET Excellence and Innovation Awards in AI and Robotics.
 
 **3- Research Assistant** <br> 
 NIHR Barts Biomedical Research Centre, London    &nbsp;&nbsp;&nbsp; (December-2023  Sep-2024)
@@ -46,12 +46,12 @@ I worked on innovating cardiac digital twins to model acute coronary syndromes, 
 **4- Research Assistant** <br> 
 University of Cambridge, McDonald Institute for Archaeological Research   &nbsp;&nbsp;&nbsp; (Oct-2021  April-2022)
 
-I worked on computational recognition of facial expressions in visual arts. The project's goals included gathering a small training dataset of sculptures to analyze their emotional content, utilizing existing facial expression algorithms to assess the emotional potency of art, and developing novel ideas to predict facial expressions. We proposed a multi-label classification approach
+I worked on computationally recognizing facial expressions in visual art. The project's goals included gathering a small training dataset of sculptures to analyze their emotional content, utilizing existing facial expression algorithms to assess the emotional potency of art, and developing novel ideas to predict facial expressions. We proposed a multi-label classification approach
 to predict ambivalent facial expressions in sculptures.
 
-**5- MS-Graduate Student Researcher** <br>
+**5- Research Engineer** <br>
 Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea   &nbsp;&nbsp;&nbsp; (Sep-2019  Oct-2021)
 
-I worked on different projects related to medical image processing and smart farming using state-of-the-art computer vision algorithms to solve problems like classification, object detection, depth estimation, and segmentation for precision agriculture and healthcare. My research aimed to design efficient deep learning modules for real-time applications by reducing the algorithms' parameterized complexity and inference time.
+I worked on projects in medical image processing and smart farming, using state-of-the-art computer vision algorithms to solve problems such as classification, object detection, depth estimation, and segmentation for precision agriculture and healthcare. My research aimed to design efficient deep learning modules for real-time applications by reducing algorithmic complexity and inference time.
   
 
