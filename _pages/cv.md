@@ -28,7 +28,7 @@ Jeonbuk National University, Jeonju, Republic of Korea
 
 ## Research Experiences 
 -----------------------
-**1- PhD Graduate Student Researcher** <br> 
+**1- PhD Researcher** <br> 
 Queen Mary’s Digital Environment Research Institute &nbsp;&nbsp;&nbsp;   (April-2022  May-2025)
 
 I worked on AI-based Cardiac Image Computing to solve cardiac-related problems using segmentation, incorporating innovations in cardiovascular imaging with multiple state-of-the-art deep learning approaches, including CLIP, Compositional AI, custom segmentation loss functions, and multimodal AI.
